@@ -1,0 +1,14 @@
+development:
+    bucket: stevia2sweet
+    access_key_id: <AKIAJ3WRECOHI43T4FGQ>
+    secret_access_key: <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>
+
+test:
+    bucket: stevia2sweet
+    access_key_id: <AKIAJ3WRECOHI43T4FGQ>
+    secret_access_key: <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>
+
+production:
+    bucket: stevia2sweet
+    access_key_id: <AKIAJ3WRECOHI43T4FGQ>
+    secret_access_key: <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>
